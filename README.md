@@ -1,6 +1,6 @@
 Chirag Perla (@chirag-perla)
-(B.E. Information Technology ,M.Sc. Artificial Intelligence)
+(M.Sc. Artificial Intelligence, B.E. Information Technology)
 
-7+ years of experience with Data Automation, ETL, Visualization using BI tools, Python and SQL
+11+ years of experience with Data, Automation, ETL, Visualization using BI tools, Python and SQL
 
-Currently based in Dublin, Ireland (Originally from Mumbai, India)
+Based in Dublin, Ireland
